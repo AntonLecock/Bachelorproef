@@ -1,3 +1,3 @@
 # Bachelorproef
 
-[Issues](https://github.com/AntonLecock/Bachelorproef/issues)
+* [Issues](https://github.com/AntonLecock/Bachelorproef/issues)
