@@ -1,3 +1,3 @@
 # Bachelorproef
 
-**bold** *italic*
+Issues — [] (https://github.com/AntonLecock/Bachelorproef/issues)
