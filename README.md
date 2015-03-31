@@ -8,4 +8,7 @@
   * [Eindontwerp](https://github.com/AntonLecock/Bachelorproef/issues/2)
 * [Planning](https://docs.google.com/spreadsheets/d/1zb94j4UwBIemgP6Dw9uNcjNuGrEtsyd027DoiKI_5_s/edit)
 * [Wiki](https://github.com/AntonLecock/Bachelorproef/wiki)
-  * [Bronnen](https://github.com/AntonLecock/Bachelorproef/wiki/Bronnen) 
+  * [Bronnen](https://github.com/AntonLecock/Bachelorproef/wiki/Bronnen)
+  * [Publicaties](https://github.com/AntonLecock/Bachelorproef/wiki/Publicaties-van-belang)
+  * [Mensen](https://github.com/AntonLecock/Bachelorproef/wiki/Mensen-van-belang)
+  * [Quotes](https://github.com/AntonLecock/Bachelorproef/wiki/Quotes-van-belang)
