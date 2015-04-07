@@ -1,6 +1,6 @@
 # Bachelorproef: 8ha
 
-#### Dit project heeft als doel de impact van de vroegere spoorwegenaanleg binnen de huidige context van verstedelijking te onderzoeken, en open source nieuwe oplossingen vergelijken. Dit onderwerp is al meerdere malen onderzocht, maar te vaak binnen het formele circuit. De vraag naar open ruimte in verstedelijkt Vlaanderen wordt steeds prangender, en dient dan ook publiekelijk onderzocht te worden.
+#### _Dit project heeft als doel een onderzoek te voeren naar een mogelijk communicatiemodel. Als graphic & information designers kunnen wij een beeldtaal ontwikkelen die de communicatie tussen de verschillende belangengroepen kan vereenvoudigen en vooruithelpen._
 
 * [Issues](https://github.com/AntonLecock/Bachelorproef/issues)
   * [Presentatie 1](https://github.com/AntonLecock/Bachelorproef/issues/1)
