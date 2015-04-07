@@ -1,6 +1,6 @@
 # Bachelorproef: 8ha
 
-#### _Dit project heeft als doel een onderzoek te voeren naar een mogelijk communicatiemodel. Als graphic & information designers kunnen wij een beeldtaal ontwikkelen die de communicatie tussen de verschillende belangengroepen kan vereenvoudigen en vooruithelpen._
+#### _Dit project heeft als doel een onderzoek te voeren naar een mogelijk communicatiemodel. Als graphic & information designers kunnen wij een beeldtaal ontwikkelen die de communicatie tussen de verschillende belangengroepen bij een stadsvernieuwingsproject kan vereenvoudigen en vooruithelpen._
 
 * [Issues](https://github.com/AntonLecock/Bachelorproef/issues)
   * [Presentatie 1](https://github.com/AntonLecock/Bachelorproef/issues/1)
