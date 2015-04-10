@@ -5,7 +5,7 @@
 * [Issues](https://github.com/AntonLecock/Bachelorproef/issues)
   * [Presentatie 1 — 27/03](https://github.com/AntonLecock/Bachelorproef/issues/1)
   * [Presentatie 2 — 03/04](https://github.com/AntonLecock/bachelorproef/issues/3)
-  * [Contact — 15/04](https://github.com/AntonLecock/Bachelorproef/issues/4)
+  * [Paasvakantie — 15/04](https://github.com/AntonLecock/Bachelorproef/issues/5)
   * [Eindontwerp](https://github.com/AntonLecock/Bachelorproef/issues/2)
 * [Planning](https://docs.google.com/spreadsheets/d/1zb94j4UwBIemgP6Dw9uNcjNuGrEtsyd027DoiKI_5_s/edit)
 * [Wiki](https://github.com/AntonLecock/Bachelorproef/wiki)
