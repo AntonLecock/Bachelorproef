@@ -8,6 +8,7 @@
   * [Paasvakantie — 15/04](https://github.com/AntonLecock/Bachelorproef/issues/5)
   * [Eindontwerp](https://github.com/AntonLecock/Bachelorproef/issues/2)
 * [Planning](https://docs.google.com/spreadsheets/d/1zb94j4UwBIemgP6Dw9uNcjNuGrEtsyd027DoiKI_5_s/edit)
+  * [Doodle gesprek OBK](http://doodle.com/h9c3gwiu64y89f36#table)
 * [Wiki](https://github.com/AntonLecock/Bachelorproef/wiki)
   * [Bronnen](https://github.com/AntonLecock/Bachelorproef/wiki/Bronnen)
   * [Publicaties](https://github.com/AntonLecock/Bachelorproef/wiki/Publicaties-van-belang)
