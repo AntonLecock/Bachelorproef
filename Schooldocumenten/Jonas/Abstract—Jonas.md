@@ -16,4 +16,4 @@ This solution can be as simple as providing a imagery to help every stakeholder 
   
 1 Vickery Hill, Adrian. Personal interview. 1 Apr. 2015  
   
-Word count: 265
+Word count: 284
