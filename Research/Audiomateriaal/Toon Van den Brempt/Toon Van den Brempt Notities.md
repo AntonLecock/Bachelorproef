@@ -1,4 +1,4 @@
-Vragen:
+
 * __Hoe verloopt de communicatie tss jullie OBK-ers in het algemeen? (als buurtbewoners)__  
 
 * __Bij park Belle-Vue: zijn jullie naar de stad gegaan / is de stad naar jullie gekomen?__  
@@ -35,28 +35,26 @@ Linken leggen.
 * **Wat vind je van de huidig communicatie? Nieuwsbrieven zoals Mozaïek(boekje)? Volstaat dat?**  
 
 Dit is eenrichtingsverkeer, zolang de stad zijn mentaliteit niet aanpast volstaat dit niet  
-___  
 
 
-Hans Thaieu Quientino  
+(Hans Thaieu Quientino)  
 
-Tim Asperges (mobiliteitsambetanaar Leuven !!!) tim.asperges@leuven.be  
+*Tim Asperges (mobiliteitsambetanaar Leuven !!!)*   
+tim.asperges@leuven.be  
      Stopprincipe  
      Stappers, trappers, openbaarvervoer, privévervoer (STOP)  
 
-Ben je er veel mee bezig? Werkt in muziek/theater sector, beetje met communicatie bezig (hij maakt prezi’s voor bedrijfjes)  
+**Ben je er veel mee bezig?** Werkt in muziek/theater sector, beetje met communicatie bezig (hij maakt prezi’s voor bedrijfjes)  
 Veel met muziek bezig, zoon Kim gaf les aan Anton (piano)  
-Trio (serendip trio) weekelijks in repetitie. (https://www.facebook.com/SeRenDipTrio)  
+*Trio (serendip trio) weekelijks in repetitie. (https://www.facebook.com/SeRenDipTrio)*  
   
 Niet zo zeer héél veel mee bezig, ook bezig met nog zeer veel andere dingen.  
-Matrix, centrum voor nieuwe muziek.   
-(mailadres Klaas doorsturen)  
-Wsselend co¨rdinatorschap. Toon is eringekomen via het Albertlaan comité. Mee helpen (4-5 jaar geleden)  
+Matrix, centrum voor nieuwe muziek.  
+Wsselend coördinatorschap. Toon is eringekomen via het Albertlaan comité. Mee helpen (4-5 jaar geleden)  
 Innitiatief genomen om een overleg te organiseren omdat er een RUP (uitvoeringsplan) werd aangekondigd  
-Men kon bezwaren indelen.  
-Verliep vrij stroef.  
+Men kon bezwaren indelen. Verliep vrij stroef.  
 Enkele dagen voor de vergadering kreeg men een briefje in de bus “we gaan actie voeren namens het overleg buurtcomités kessel-lo"  
-Mail volgt van Bert … eerst wat strubbelingen, savonds gebeld, actie werd uitgesteld > uiteindelijk was er 30 man (véél)  
+Mail volgt van Bert (…) eerst wat strubbelingen, savonds gebeld, actie werd uitgesteld > uiteindelijk was er 30 man (véél)  
 Toon is uiteindelijk mee gaan doen in het comité. Belle-Vue bestaat al 20 jaar (het comité)  
 Uiteindelijk gaan aandringen bij de stad voor een ovleg tss buurtcomités.  
 Bij de vergadering (30 man) werden de grote lijnen (op website) neergepend.  
