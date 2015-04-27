@@ -14,12 +14,12 @@ De stad zegt “niets belet jullie om zelf een voorstel te doen” (als in: jull
   
 (zie website: de stad erkend OBK als vereniging)  
   
-* __Hoe verliep de communicatie tussen jullie?  
-     * verliep die eenzijdig of zijn jullie in dialoog gegaan?  
-     * Waar loopt de comm. stroef? Wat zijn de oorzaken daarvan?   
-          * Zijn er frequente frustraties? Is dit herhaaldelijk?  
+* **Hoe verliep de communicatie tussen jullie?**    
+     * **verliep die eenzijdig of zijn jullie in dialoog gegaan?**  
+     * **Waar loopt de comm. stroef? Wat zijn de oorzaken daarvan?**   
+          * **Zijn er frequente frustraties? Is dit herhaaldelijk?**  
 
-* Hebben jullie het gevoel betrokken te zijn bij het project?__  
+* Hebben jullie het gevoel betrokken te zijn bij het project?  
 
 * Via welk kanaal? E-mail / Facebook / Nieuwsbrief / ...  
      * Is er nood aan een algemenere taal/kanaal?__  
