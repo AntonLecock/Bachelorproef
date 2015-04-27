@@ -1,28 +1,28 @@
 Vragen:
-* _Hoe verloopt de communicatie tss jullie OBK-ers in het algemeen? (als buurtbewoners)_  
+* __Hoe verloopt de communicatie tss jullie OBK-ers in het algemeen? (als buurtbewoners)__  
 
-* _Bij park Belle-Vue: zijn jullie naar de stad gegaan / is de stad naar jullie gekomen?_  
+* __Bij park Belle-Vue: zijn jullie naar de stad gegaan / is de stad naar jullie gekomen?__  
 
 Mentaliteitswijziging die zij moeten nog doorvoeren. 
 BV: Blauwe zone zou overal doorgevoerd worden  “we zullen jullie wel op de hoogte houden daarvan"
-Later lezen zij het ergens op de politiewebsite dat dit toch werd doorgevoerd. Plots werd dit brutaal ingevoerd, bewoners moesten 60€ betalen voor een bewonerskaart, … 
+Later lezen zij het ergens op de politiewebsite dat dit toch werd doorgevoerd. Plots werd dit brutaal ingevoerd, bewoners moesten 60€ betalen voor een bewonerskaart, …  
 Enorme reactie daarop doorgekomen > heel politiek ook. NVA, VLD, … iedereen 
-Vergadering met schepenen > voorbeeld van hoe het niet moet
-     OBK heeft heel veel impact, laat dit ook doorvoelen aan schepenen wanneer zij opeens in de vakantie de blauwe zone doorvoeren
+Vergadering met schepenen > voorbeeld van hoe het niet moet  
+OBK heeft heel veel impact, laat dit ook doorvoelen aan schepenen wanneer zij opeens in de vakantie de blauwe zone doorvoeren
 Het is balanceren tuss enerzijds de standpunten die OBK wil “verkopen”, doorvoeren, … (bijvoorbeeld 30 km/h) (zij kunnen niet zomaar over het hoofd van anderen 30km/h doorvoeren) en anderzijds met de stad is het balanceren want zij weten dat wanneer zij maatregelen doorvoeren waarmee het volk niet akkoord is, dat ze het volk tegen hen krijgen.
-De stad zegt “niets belet jullie om zelf een voorstel te doen” (als in: jullie doen het toch niet), hebben samen gezetn > samen een plan uitgetekend binnen OBK > hebben dit voorgesteld aan de stad, ...
+De stad zegt “niets belet jullie om zelf een voorstel te doen” (als in: jullie doen het toch niet), hebben samen gezetn > samen een plan uitgetekend binnen OBK > hebben dit voorgesteld aan de stad, ...  
+  
+(zie website: de stad erkend OBK als vereniging)  
+  
+__* Hoe verliep de communicatie tussen jullie?  
+     * verliep die eenzijdig of zijn jullie in dialoog gegaan?  
+     * Waar loopt de comm. stroef? Wat zijn de oorzaken daarvan?   
+          * Zijn er frequente frustraties? Is dit herhaaldelijk?  
 
-(zie website: de stad erkend OBK als vereniging)
+* Hebben jullie het gevoel betrokken te zijn bij het project?  
 
-- Hoe verliep de communicatie tussen jullie? 
-     - verliep die eenzijdig of zijn jullie in dialoog gegaan?
-     - Waar loopt de comm. stroef? Wat zijn de oorzaken daarvan? 
-          - Zijn er frequente frustraties? Is dit herhaaldelijk?
-
-- Hebben jullie het gevoel betrokken te zijn bij het project? 
-
-- Via welk kanaal? E-mail / Facebook / Nieuwsbrief / ...
-     - Is er nood aan een algemenere taal/kanaal?
+* Via welk kanaal? E-mail / Facebook / Nieuwsbrief / ...  
+     * Is er nood aan een algemenere taal/kanaal?__  
 
 Bellen met Tim Asperges = redelijk beschikbaar, aftasten wat de beste strategie zou zijn (Tim = ruimtelijk beleid) 
 Stad informeert ook infomomenten > bang van omdat ze plannen hebben. pleinangst om te communiceren
