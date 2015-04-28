@@ -1,4 +1,4 @@
-# Bachelorproef: 8ha
+# Bachelorproef
 
 #### _Dit project heeft als doel een onderzoek te voeren naar een mogelijk communicatiemodel. Als graphic & information designers kunnen wij een beeldtaal ontwikkelen die de communicatie tussen de verschillende belangengroepen bij een stadsvernieuwingsproject kan vereenvoudigen en vooruithelpen._
 
