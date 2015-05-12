@@ -14,3 +14,4 @@
   * [Publicaties](https://github.com/AntonLecock/Bachelorproef/wiki/Publicaties-van-belang)
   * [Mensen](https://github.com/AntonLecock/Bachelorproef/wiki/Mensen-van-belang)
   * [Quotes](https://github.com/AntonLecock/Bachelorproef/wiki/Quotes-van-belang)
+* [Trello](https://trello.com/b/dlWLpVU8/to-do)
