@@ -2,6 +2,8 @@
 
 #### _Dit project heeft als doel een onderzoek te voeren naar een mogelijk communicatiemodel. Als graphic & information designers kunnen wij een beeldtaal ontwikkelen die de communicatie tussen de verschillende belangengroepen bij een stadsvernieuwingsproject kan vereenvoudigen en vooruithelpen._
 
+* [Pre-jury Folder](https://github.com/AntonLecock/Bachelorproef/tree/master/Research/Pre-jury)
+
 * [Issues](https://github.com/AntonLecock/Bachelorproef/issues)
   * [Presentatie 1 — 27/03](https://github.com/AntonLecock/Bachelorproef/issues/1)
   * [Presentatie 2 — 03/04](https://github.com/AntonLecock/bachelorproef/issues/3)
