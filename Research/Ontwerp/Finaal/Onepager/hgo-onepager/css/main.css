@@ -144,20 +144,24 @@ textarea {
     width:50px;
 }
 
-#slideshow {
-    width:80%;
+#bg-4-slideshow {
+    width:100%;
+    height:100%;
     position:absolute;
-    top:200px;
     left:0;
-    right:0;
+    top:0;
     margin:0 auto;
 
 }
 
-#slideshow img {
-    width:500px;
+#bg-4-slideshow img {
+    width:100%;
+    height:100%;
     opacity:0;
+    display:inline-block;
 }
+
+
 
 /* pager */
 .cycle-pager { 
@@ -165,14 +169,15 @@ textarea {
     width: 100%; 
     z-index: 500; 
     position: absolute; 
-    top: 10px; 
+    bottom: 100px; 
     overflow: hidden;
 }
 .cycle-pager span { 
     font-family: arial; 
     font-size: 50px; 
     width: 16px; 
-    height: 16px; 
+    height: 16px;
+
     display: inline-block; 
     color: #ddd; 
     cursor: pointer; 
