@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 200" enable-background="new 0 0 200 200" xml:space="preserve">
+<symbol  id="ic_x5F_expand_x5F_more" viewBox="0 -24 24 24">
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="5.6464" y1="-12.2929" x2="18.3536" y2="-12.2929">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	
+		<polygon fill="#FFFFFF" stroke="url(#SVGID_1_)" stroke-width="0.5" stroke-miterlimit="10" stroke-opacity="2.000000e-02" points="
+		16.6,-8.6 12,-13.2 7.4,-8.6 6,-10 12,-16 18,-10 	"/>
+	<polygon fill="none" points="0,0 0,-24 24,-24 24,0 	"/>
+	<polygon display="none" fill="none" points="0,0 24,0 24,-24 0,-24 	"/>
+</symbol>
+<g>
+	
+		<use xlink:href="#ic_x5F_expand_x5F_more"  width="24" height="24" id="XMLID_18_" y="-24" transform="matrix(6.8423 0 0 -6.8423 17.892 20.8919)" overflow="visible"/>
+	<g>
+		<path fill="#FFFFFF" d="M100,27.1c41.9,0,75.9,34.1,75.9,75.9s-34.1,75.9-75.9,75.9S24.1,144.9,24.1,103S58.1,27.1,100,27.1
+			 M100,20.9c-45.3,0-82.1,36.8-82.1,82.1s36.8,82.1,82.1,82.1s82.1-36.8,82.1-82.1S145.3,20.9,100,20.9L100,20.9z"/>
+	</g>
+</g>
+</svg>
