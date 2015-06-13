@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/main.css">
+        <script src="js/vendor/modernizr-2.6.2.min.js"></script>
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        <!-- Add your site or application content here -->
+        <div class="bg">
+            <center><div id="title" class="cycle-slideshow" data-cycle-speed="2000">
+                
+                <img src='img/HGO-Grootsteden-Centrumsteden-01.png'/>
+                <img src='img/HGO-Grootsteden-Centrumsteden-02.png'/>
+                <img src='img/HGO-Grootsteden-Centrumsteden-03.png'/>       
+                <img src='img/HGO-Grootsteden-Centrumsteden-04.png'/>
+                <img src='img/HGO-Grootsteden-Centrumsteden-05.png'/>
+                <img src='img/HGO-Grootsteden-Centrumsteden-06.png'/>
+                <img src='img/HGO-Grootsteden-Centrumsteden-07.png'/>
+                <img src='img/HGO-Grootsteden-Centrumsteden-08.png'/>
+                <img src='img/HGO-Grootsteden-Centrumsteden-09.png'/>
+                <img src='img/HGO-Grootsteden-Centrumsteden-10.png'/>
+                <img src='img/HGO-Grootsteden-Centrumsteden-11.png'/>
+                <img src='img/HGO-Grootsteden-Centrumsteden-12.png'/>
+                <img src='img/HGO-Grootsteden-Centrumsteden-13.png'/>
+
+
+            </div></center>
+        </div>
+
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+        <script src="js/plugins.js"></script>
+        <script src="js/main.js"></script>
+        <script src="http://malsup.github.com/jquery.cycle2.js"></script>
+
+        <!--<script>
+            var images = ['HGO-Grootsteden-Centrumsteden-01.png', 
+                          'HGO-Grootsteden-Centrumsteden-02.png', 
+                          'HGO-Grootsteden-Centrumsteden-03.png', 
+                          'HGO-Grootsteden-Centrumsteden-04.png',
+                          'HGO-Grootsteden-Centrumsteden-05.png',
+                          'HGO-Grootsteden-Centrumsteden-06.png',
+                          'HGO-Grootsteden-Centrumsteden-07.png',
+                          'HGO-Grootsteden-Centrumsteden-08.png', 
+                          'HGO-Grootsteden-Centrumsteden-09.png',
+                          'HGO-Grootsteden-Centrumsteden-10.png',
+                          'HGO-Grootsteden-Centrumsteden-11.png',
+                          'HGO-Grootsteden-Centrumsteden-12.png',
+                          'HGO-Grootsteden-Centrumsteden-13.png'];
+
+            $(document).one(function(){
+                $('.title').css({'background-image': 'url(img/' + images[Math.floor(Math.random() * images.length)] + ')'});
+            });
+
+            window.setInterval(function(){
+
+                $('.title').css({'background-image': 'url(img/' + images[Math.floor(Math.random() * images.length)] + ')'});
+
+            }, 5000);
+        </script>-->
+
+        <!--<script>
+            function cycleImages(){
+      var $active = $('#title .active');
+      var $next = ($('#title .active').next().length > 0) ? $('#title .active').next() : $('#title img:first');
+      $next.css('z-index',2);//move the next image up the pile
+      $active.fadeOut(1500,function(){//fade out the top image
+      $active.css('z-index',1).show().removeClass('active');//reset the z-index and unhide the image
+      $next.css('z-index',3).addClass('active');//make the next image the top one
+      });
+    }
+
+    $(window).load(function(){
+        $('#title').fadeIn(1500);//fade the background back in once all the images are loaded
+          // run every 7s
+          setInterval('cycleImages()', 7000);
+    })
+
+        </script>-->
+    </body>
+</html>
