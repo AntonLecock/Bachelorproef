@@ -43,21 +43,52 @@
           </div>
         </div>
         <div class="bg">
+
             <img class="bg-image bg-1" id="bg-1" src="img/onepager-1.jpg">
 
+            <div class="next-arrow next-arrow-1" id="next-arrow-1">
+              <a href="#bg-2">
+                <img src="img/next-arrow.svg">
+              </a>
+            </div>
             
         </div>
+
         <div class="bg">
+
             <img class="bg-image bg-2" id="bg-2" src="img/onepager-2.jpg">
 
         </div>
 
+        <div class="bg">
+
+            <img class="bg-image bg-3" id="bg-3" src="img/onepager-3.jpg">
+
+        </div>
+        
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
         <script src="js/plugins.js"></script>
         <script src="js/main.js"></script>
         <script src="http://malsup.github.com/jquery.cycle2.js"></script>
+        
+        <script>
+        $(function() {
+          $('a[href*=#]:not([href=#])').click(function() {
+            if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+              var target = $(this.hash);
+              target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+              if (target.length) {
+                $('html,body').animate({
+                  scrollTop: target.offset().top
+                }, 1000);
+              return false;
+              }; // close if
+            }; // close if
+          }); // close click.(function)
+      }); // close function()
+      </script>
 
         <!--<script>
             var images = ['HGO-Grootsteden-Centrumsteden-01.png', 
