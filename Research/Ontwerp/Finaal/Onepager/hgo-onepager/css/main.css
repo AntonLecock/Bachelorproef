@@ -97,6 +97,9 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+::-webkit-scrollbar { 
+    display: none; 
+}
 
 .bg {
     min-width:100vw;
@@ -172,6 +175,7 @@ textarea {
     bottom: 100px; 
     overflow: hidden;
 }
+
 .cycle-pager span { 
     font-family: arial; 
     font-size: 50px; 
@@ -191,6 +195,44 @@ textarea {
 
 .cycle-pager * { 
     cursor: pointer;
+}
+
+/* prev / next links */
+
+.cycle-prev, 
+.cycle-next { 
+    position: absolute; 
+    bottom: 50%;
+    width: 23%; 
+    opacity: .2; 
+    z-index: 800; 
+    height:60px;
+    cursor: pointer; 
+    transition: opacity, .5s ease;
+}
+
+.cycle-prev {
+    width:10%; 
+    left: 0;  
+    opacity:0;
+    background: url(../img/left-arrow.svg) 50% 50% no-repeat;
+    background-size: 100px;
+
+
+}
+.cycle-next { 
+    right: 0; 
+    background: url(../img/right-arrow.svg) 50% 50% no-repeat;
+    background-size: 100px;
+}
+
+.cycle-prev:hover, 
+.cycle-next:hover { 
+    opacity: .5; 
+}
+
+.disabled { 
+    opacity: .2; 
 }
 
 
