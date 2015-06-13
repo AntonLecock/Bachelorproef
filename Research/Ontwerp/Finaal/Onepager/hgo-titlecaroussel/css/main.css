@@ -101,7 +101,7 @@ textarea {
 .bg {
     min-width:100vw;
     min-height:100vh;
-    background-image:url('../img/onepager-1test.jpg');
+    background-image:url('../img/onepager-1.jpg');
     background-position:top, center;
     background-size: 100vw, 100vh;
     z-index:9;
