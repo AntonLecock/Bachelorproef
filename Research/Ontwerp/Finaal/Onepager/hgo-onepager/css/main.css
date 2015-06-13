@@ -100,34 +100,35 @@ textarea {
 
 .bg {
     min-width:100vw;
-    min-height:100vh;
-    background-image:url('../img/onepager-1.jpg');
+    height:auto;
     background-position:top, center;
-    background-size: 100vw, 100vh;
-    z-index:9;
+    background-size: 100vw;
+    z-index:1;
     position:relative;
+}
+
+.bg-image {
+    width:100%;
+    display:block;
+}
+
+.center {
+
 }
 
 #title {
     display:inline-block;
     max-width:700px;
-    z-index:-1;
+    z-index:9;
     margin:80px auto;
+    left:0;
+    right:0;
+    position:absolute;
 }
 
 #title img {
     width:700px;
 }
-
-.title .active {
-    z-index:9999;
-}
-
-
-
-
-
-
 
 
 
