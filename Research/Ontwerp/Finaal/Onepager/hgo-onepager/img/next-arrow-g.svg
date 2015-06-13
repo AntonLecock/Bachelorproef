@@ -3,11 +3,11 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 2560 1440" style="enable-background:new 0 0 2560 1440;" xml:space="preserve">
 <symbol  id="ic_x5F_expand_x5F_more" viewBox="-12 -12 24 24">
-	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-6.3536" y1="-0.3" x2="6.3536" y2="-0.3">
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-6.3535" y1="-0.2997" x2="6.3536" y2="-0.2997">
 		<stop  offset="0" style="stop-color:#FFFFFF"/>
 		<stop  offset="1" style="stop-color:#000000"/>
 	</linearGradient>
-	<polygon style="fill:#FFFFFF;stroke:url(#SVGID_1_);stroke-width:0.5;stroke-miterlimit:10;stroke-opacity:2.000000e-02;" points="
+	<polygon style="fill:#CBCBCB;stroke:url(#SVGID_1_);stroke-width:0.5;stroke-miterlimit:10;stroke-opacity:2.000000e-02;" points="
 		4.6,3.4 0,-1.2 -4.6,3.4 -6,2 0,-4 6,2 	"/>
 	<polygon style="fill:none;" points="-12,12 -12,-12 12,-12 12,12 	"/>
 	<polygon style="display:none;fill:none;" points="-12,12 12,12 12,-12 -12,-12 	"/>
@@ -16,7 +16,7 @@
 	
 		<use xlink:href="#ic_x5F_expand_x5F_more"  width="24" height="24" id="XMLID_18_" x="-12" y="-12" transform="matrix(49.2646 0 0 -49.2646 1279.9971 741.5964)" style="overflow:visible;"/>
 	<g>
-		<path style="fill:#FFFFFF;" d="M1280,195.1c301.7,0,546.5,245.5,546.5,546.5S1581,1288.1,1280,1288.1s-546.5-244.8-546.5-546.5
+		<path style="fill:#CBCBCB;" d="M1280,195.1c301.7,0,546.5,245.5,546.5,546.5S1581,1288.1,1280,1288.1s-546.5-244.8-546.5-546.5
 			S978.3,195.1,1280,195.1 M1280,150.5c-326.2,0-591.1,265-591.1,591.1s265,591.1,591.1,591.1s591.1-265,591.1-591.1
 			S1606.2,150.5,1280,150.5L1280,150.5z"/>
 	</g>
