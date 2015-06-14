@@ -146,6 +146,13 @@ textarea {
 
 .next-arrow img {
     width:50px;
+    transition: transform .6s ease, opacity .6s ease;
+
+}
+
+.next-arrow a:hover img {
+    transform: translate(0, 8px);
+    opacity:.6;
 }
 
 .bg .cycle-slideshow {
