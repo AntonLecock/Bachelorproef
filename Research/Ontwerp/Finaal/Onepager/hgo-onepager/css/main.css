@@ -101,6 +101,10 @@ textarea {
     display: none; 
 }
 
+body {
+    background-color:#4d4d4d;
+}
+
 .bg {
     min-width:100vw;
     height:auto;
