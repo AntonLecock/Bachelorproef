@@ -180,26 +180,29 @@ textarea {
     width: 100%; 
     z-index: 500; 
     position: absolute; 
-    bottom: 100px; 
+    bottom: 10%; 
     overflow: hidden;
 }
 
 .cycle-pager span { 
     font-family: arial; 
-    font-size: 50px; 
+    font-size: 40px; 
     width: 16px; 
     height: 16px;
 
     display: inline-block; 
-    color: #ddd; 
+    color: #000;
+    opacity:.3; 
     cursor: pointer; 
-    transition: color, .2s ease;
+    transition: opacity .5s ease;
 }
 
 
 .cycle-pager span.cycle-pager-active { 
-    color: rgb(20,146,237);
+    opacity:.6;
 }
+
+
 
 .cycle-pager * { 
     cursor: pointer;
@@ -226,8 +229,8 @@ textarea {
     background: url(../img/left-arrow.svg) 50% 50% no-repeat;
     background-size: 100px;
 
-
 }
+
 .cycle-next { 
     right: 0; 
     background: url(../img/right-arrow.svg) 50% 50% no-repeat;
