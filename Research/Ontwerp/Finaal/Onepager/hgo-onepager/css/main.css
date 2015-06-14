@@ -205,7 +205,7 @@ textarea {
     position: absolute; 
     bottom: 50%;
     width: 23%; 
-    opacity: .2; 
+    opacity: .6; 
     z-index: 800; 
     height:60px;
     cursor: pointer; 
@@ -229,7 +229,7 @@ textarea {
 
 .cycle-prev:hover, 
 .cycle-next:hover { 
-    opacity: .5; 
+    opacity: .3; 
 }
 
 .disabled { 
