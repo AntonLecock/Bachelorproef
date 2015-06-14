@@ -236,6 +236,9 @@ textarea {
     opacity: .2; 
 }
 
+#bg-6-slideshow .cycle-next {
+    width:10%;
+}
 
 /* ==========================================================================
    Helper classes
