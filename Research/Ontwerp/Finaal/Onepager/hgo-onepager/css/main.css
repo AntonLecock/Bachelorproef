@@ -122,15 +122,16 @@ textarea {
 #title {
     display:inline-block;
     max-width:700px;
+    width:40vw;
     z-index:9;
-    margin:80px auto;
+    margin: 5vw auto;
     left:0;
     right:0;
     position:absolute;
 }
 
 #title img {
-    width:700px;
+    width:100%;
 }
 
 .next-arrow {
