@@ -137,7 +137,7 @@ textarea {
 .next-arrow {
     position:absolute;
     z-index:9999;
-    bottom:60px;
+    bottom:7%;
     width:50px;
     left:0;
     right:0;
