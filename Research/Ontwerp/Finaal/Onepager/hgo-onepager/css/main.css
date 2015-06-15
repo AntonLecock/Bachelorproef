@@ -159,10 +159,10 @@ body {
 
 .next-arrow img {
     width:50px;
-    transition: transform .6s ease, opacity .6s ease, -moz-transform .6s ease, -webkit-transform .6s ease, -o-transform .6s ease;
-    -moz-transition: transform .6s ease, opacity .6s ease, -moz-transform .6s ease, -webkit-transform .6s ease, -o-transform .6s ease;
-    -webkit-transition: transform .6s ease, opacity .6s ease, -moz-transform .6s ease, -webkit-transform .6s ease, -o-transform .6s ease;
-    -o-transition: transform .6s ease, opacity .6s ease, -moz-transform .6s ease, -webkit-transform .6s ease, -o-transform .6s ease;
+    transition: transform .6s ease, opacity .6s ease;
+    -moz-transition: opacity .6s ease, -moz-transform .6s ease;
+    -o-transition: opacity .6s ease, -o-transform .6s ease;
+    -webkit-transition: opacity .6s, -webkit-transform .6s ease;
 
 }
 
