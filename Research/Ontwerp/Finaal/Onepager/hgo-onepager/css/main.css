@@ -159,17 +159,26 @@ body {
 
 .next-arrow img {
     width:50px;
-    transition: transform .6s ease, opacity .6s ease;
+    transition: transform .6s ease, opacity .6s ease, -moz-transform .6s ease, -webkit-transform .6s ease, -o-transform .6s ease;
+    -moz-transition: transform .6s ease, opacity .6s ease, -moz-transform .6s ease, -webkit-transform .6s ease, -o-transform .6s ease;
+    -webkit-transition: transform .6s ease, opacity .6s ease, -moz-transform .6s ease, -webkit-transform .6s ease, -o-transform .6s ease;
+    -o-transition: transform .6s ease, opacity .6s ease, -moz-transform .6s ease, -webkit-transform .6s ease, -o-transform .6s ease;
 
 }
 
 .next-arrow a:hover img {
     transform: translate(0, 8px);
+    -webkit-transform: translate(0, 8px);
+    -moz-transform: translate(0, 8px);
+    -o-transform: translate(0, 8px);
     opacity:.6;
 }
 
 .top-arrow {
     transform: rotate(180deg);
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
     right:30px;
     left:auto;
     bottom:30px;
@@ -215,6 +224,9 @@ body {
     opacity:.3; 
     cursor: pointer; 
     transition: opacity .5s ease;
+    -webkit-transition: opacity .5s ease;
+    -moz-transition: opacity .5s ease;
+    -o-transition: opacity .5s ease;
 }
 
 
@@ -239,7 +251,10 @@ body {
     z-index: 800; 
     height:60px;
     cursor: pointer; 
-    transition: opacity, .5s ease;
+    transition: opacity .5s ease;
+    -webkit-transition: opacity .5s ease;
+    -moz-transition: opacity .5s ease;
+    -o-transition: opacity .5s ease;
 }
 
 .cycle-prev {
